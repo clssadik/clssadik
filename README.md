@@ -2,13 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="214" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5wYXF6MHl2eXJhNTJlZmJucHJpajdlMDcwOXoweXMwbWcyd25ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
-</div>
-
-###
-
-<p align="left">My name is Sadık Çil and I'm a computer engineering student, from Türkiye</p>
+<p align="left">My name is Sadık Çil and I'm a computer engineering student from Turkey</p>
 
 ###
 
@@ -45,12 +39,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
 
 ###
