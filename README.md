@@ -3,9 +3,6 @@
 ###
 
 
-https://github.com/user-attachments/assets/b8c458cb-d6cd-4898-9957-51c8403c6ac1
-
-
 
 ###
 
