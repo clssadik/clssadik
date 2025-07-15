@@ -3,8 +3,9 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5wYXF6MHl2eXJhNTJlZmJucHJpajdlMDcwOXoweXMwbWcyd25ydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"  />
-</div>
+  ![giphy](https://github.com/user-attachments/assets/b8c458cb-d6cd-4898-9957-51c8403c6ac1
+</div>)
+
 
 ###
 
